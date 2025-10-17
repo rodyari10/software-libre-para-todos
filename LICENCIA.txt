@@ -1,0 +1,14 @@
+LICENCIA PÚBLICA GENERAL DE GNU
+
+Versión 3, 29 de junio de 2007
+
+Copyright (C) 2025 Rodyari10
+
+Se permite a cualquier persona copiar y distribuir copias literales de este documento de licencia, pero no se permite modificarlo.
+
+Preámbulo
+
+La Licencia Pública General de GNU es una licencia libre, copyleft, para software y otros tipos de obras.
+[... El texto completo continúa ...]
+
+Para ver el texto completo de la licencia, consulta: https://www.gnu.org/licenses/gpl-3.0.txt
